@@ -15,7 +15,7 @@ const questions = [
     },
     {
         question: "What is the largest mammal in the world?",
-        options: ["Elephant", "Blue Whale", "Shark", "Giraffe"],
+        options: ["Elephant", "Shark", "Giraffe", "Blue Whale"],
         answer: "Blue Whale",
     },
 ]
